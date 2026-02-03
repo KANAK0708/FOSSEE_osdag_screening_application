@@ -1,4 +1,4 @@
-**FOSSEE Screening Tasks – Structural Analysis & Visualization**
+#**FOSSEE Screening Tasks – Structural Analysis & Visualization**
 This project focuses on extracting structural force results from an Osdag NetCDF file and converting them into clear, meaningful Shear Force Diagrams (SFD) and Bending Moment Diagrams (BMD) using Python.
 
 The work is divided into two parts:
@@ -8,7 +8,7 @@ Task‑2: Full 3D visualization of all girders in the bridge
 
 The aim is to understand how forces behave in the structure and to validate Osdag results using programming, visualization, and basic data analytics.
 
-🚀 Features
+##🚀 Features
 ✅ Task‑1 — 2D Analysis of Central Girder
 Reads force data directly from the NetCDF file using Xarray
 Converts element forces into continuous data along the girder
